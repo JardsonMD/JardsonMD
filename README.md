@@ -18,6 +18,7 @@ Sou um estudante de Ciencia da Computação, uma área muito querida e important
   <img align='right'src="https://media.tenor.com/xhjAqRrbQHwAAAAi/artorias-dark-souls.gif"/> 
 </div>
 <br/>
+<br/>
 <div>
   <h2>💻Linguagens e ferramentas</h2> 
   <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -26,6 +27,7 @@ Sou um estudante de Ciencia da Computação, uma área muito querida e important
   <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img align='right' width='150' height='150' src="https://media.tenor.com/jP0qr_Ha7_MAAAAi/darksouls-knight.gif" />
 </div>
+<br/>
 <br/>
 <div>
   <h2>🔍Status</h2>
