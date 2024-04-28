@@ -29,8 +29,8 @@ Sou um estudante de Ciencia da Computação, uma área muito querida e important
 </div>
 <br/>
 <br/>
-<div>
-  <h2>🔍Status</h2>
+<h2>🔍Status</h2>
+<div align='center'>
     <a href="https://github.com/JardsonMD">
       <img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardsonMD&layout=compact&langs_count=7&theme=apprentice"/>
       <img height='160' src="https://github-readme-stats.vercel.app/api?username=JardsonMD&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
