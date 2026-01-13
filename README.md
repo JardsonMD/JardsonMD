@@ -15,6 +15,7 @@ Sou um estudante de Ciencia da Computação, uma área muito querida e important
   <img width='65' height='65' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
   <img width='65' height='65' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
   <img width='65' height='65' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align='right'src="https://media.tenor.com/xhjAqRrbQHwAAAAi/artorias-dark-souls.gif"/> 
 </div>
 <br/>
